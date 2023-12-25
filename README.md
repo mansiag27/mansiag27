@@ -13,24 +13,7 @@ Computer Science grad 🎓 | Machine Learning enthusiast 🤖 | Python & R afici
 ### Skills
 
 <p align="left">
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="URL_TO_AWS_ICON" width="36" height="36" alt="AWS" />
-    </a>
-    <a href="URL_TO_BIGDATA_DOCUMENTATION" target="_blank" rel="noreferrer">
-        <img src="URL_TO_BIGDATA_ICON" width="36" height="36" alt="Big Data" />
-    </a>
-    <a href="URL_TO_SQL_DOCUMENTATION" target="_blank" rel="noreferrer">
-        <img src="URL_TO_SQL_ICON" width="36" height="36" alt="SQL" />
-    </a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 </p>
 
 
