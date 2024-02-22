@@ -11,17 +11,15 @@ Computer Science grad 🎓 | 💻 Seeking knowledge in the world of distributed 
 * 🧠  I'm learning AWS
 
 ### Skills
-
-### Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bigdata-colored.svg" width="36" height="36" alt="Big Data" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36" alt="SQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R Programming" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="Machine Learning" />
-</p>
+* Big Data
+* AWS
+* Python
+* SQL
+* Machine Learning
+* Statistics
+* R programming
+* Power Bi
+* Tablue
 
 
 ### Socials
