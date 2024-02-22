@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Exploring the infinite possibilities of code 💻
 -----------------------------------------------
 
-Computer Science grad 🎓 | Machine Learning enthusiast 🤖 | Python & R aficionado 🐍 | Seeking knowledge, creating wonders, and shaping the future, one line of code at a time 💻✨|Exploring the limitless possibilities of technology
+Computer Science grad 🎓 | 💻 Seeking knowledge in the world of distributed systems, Hadoop, Spark, and beyond! | Python & R aficionado 🐍 | Seeking knowledge, creating wonders, and shaping the future, one line of code at a time 💻✨|Exploring the limitless possibilities of technology
 
 * 🌍  I'm based in the vibrant city of Mumbai
 * ✉️  You can contact me at [agarwalmansi085@gmail.com](mailto:agarwalmansi085@gmail.com)
